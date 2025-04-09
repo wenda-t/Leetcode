@@ -1,6 +1,5 @@
-class Solution(object):
-    # Might be some of the ugliest code i've written
-    def isValid(self, s):
+# Might be some of the ugliest code i've written
+def isValid(self, s):
         """
         :type s: str
         :rtype: bool
